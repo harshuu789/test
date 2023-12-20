@@ -1,2 +1,4 @@
-const="Hello World"
-  console.log(const)
+const name="Harsh"
+const surname="Thapa"
+var result=name+surname
+  console.log(result)
