@@ -1,2 +1,4 @@
 const name='Piyush'
 const surname='Thapa'
+const fullname=name+surname
+console.log(fullname)
