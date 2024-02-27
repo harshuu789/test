@@ -3,5 +3,3 @@ const surname='Thapa'
 const fullname=name+surname
 console.log(fullname)
 
-Output : Piyush Thapa
-
